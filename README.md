@@ -1,5 +1,5 @@
 # Crystal Sharp - Message Broker Azure Service Bus Example
-Crystal Sharp framework - Message Broker code example with `Azure Service Bus`.
+Crystal Sharp framework - `Message Broker` code example with `Azure Service Bus`.
 
 
 ### About This Example
