@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalSharpMessageBrokerAzureServiceBusExample.Api", "CrystalSharpMessageBrokerAzureServiceBusExample.Api\CrystalSharpMessageBrokerAzureServiceBusExample.Api.csproj", "{FAB07BB1-DA63-46C8-9B45-1C8669A8BE75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalSharpMessageBrokerAzureServiceBusExample.ConsoleApplication", "CrystalSharpMessageBrokerAzureServiceBusExample.ConsoleApplication\CrystalSharpMessageBrokerAzureServiceBusExample.ConsoleApplication.csproj", "{F45835B5-3F0B-4650-9BB9-04D1322321F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB07BB1-DA63-46C8-9B45-1C8669A8BE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB07BB1-DA63-46C8-9B45-1C8669A8BE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB07BB1-DA63-46C8-9B45-1C8669A8BE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB07BB1-DA63-46C8-9B45-1C8669A8BE75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45835B5-3F0B-4650-9BB9-04D1322321F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45835B5-3F0B-4650-9BB9-04D1322321F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45835B5-3F0B-4650-9BB9-04D1322321F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45835B5-3F0B-4650-9BB9-04D1322321F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {058B1535-3949-44F5-A98D-A7E9E53561B2}
+	EndGlobalSection
+EndGlobal
